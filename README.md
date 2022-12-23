@@ -1,6 +1,8 @@
 # SMU-Mod-2-Challenge
 This challebge was to create and deploy a personal website portfolio. This challenge incoporated the used of html, css and some js. Also included images as as well external links to the code.
 
+# URL: https://vulcandthgrip.github.io/SMU-Mod-2-Challenge/
+
 # Example Code
 
 ![Screenshot 2022-12-23 at 12 26 34 PM](https://user-images.githubusercontent.com/112414393/209391637-cba2efb9-0a0b-41b9-a0be-c9acd32eec68.png)
